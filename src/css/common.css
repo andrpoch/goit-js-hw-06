@@ -22,3 +22,11 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+
+/* _____________task3 style____________ */
+
+.gallery{
+  display: flex;
+  justify-content: space-between
+}
